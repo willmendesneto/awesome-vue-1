@@ -162,6 +162,7 @@ Loaders / spinners / progress bars — Let the user know that something is loadi
 - [uspin](https://github.com/peterroe/uspin) - A Vue 3 component that adds a spin mask at load time
 - [vue-img-lazy-tiny](https://github.com/peterroe/vue-img-lazy-tiny) - A Vue 3 directive that provide a shield while loading
 - [vue3-ui-preloader](https://github.com/gbast0s/vue3-ui-preloader) - Vue 3 pre-loader components for Vue.js projects with playground
+- [vue-skeleton-content-loader](https://github.com/willmendesneto/vue-skeleton-content-loader) - Lightweight and accessible library to make beautiful, animated loading skeletons that automatically adapt to your Vue app
 
 ### Progress Bar
 
